@@ -30,7 +30,7 @@
                     <DataTemplate>
                         <StackPanel>
                             <TextBlock Text="{Binding name}" FontSize="48" TextWrapping="Wrap"/>
-                            <TextBlock Text="{Binding descrition}" FontSize="22" TextWrapping="Wrap"/>
+                            <TextBlock Text="{Binding description}" FontSize="22" TextWrapping="Wrap"/>
                             <TextBlock Text="{Binding value}" FontSize="18" TextWrapping="Wrap"/>
                             <TextBlock Text="{Binding branch_name}" FontSize="18" TextWrapping="Wrap"/>
                             <TextBlock Text="{Binding branch_phone}" FontSize="18" TextWrapping="Wrap"/>
