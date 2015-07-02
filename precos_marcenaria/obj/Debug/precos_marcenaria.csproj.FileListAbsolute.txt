@@ -1,0 +1,14 @@
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\Bin\Debug\ApplicationIcon.png
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\Bin\Debug\Background.png
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\Bin\Debug\precos_marcenaria.dll
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\Bin\Debug\precos_marcenaria.pdb
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\Bin\Debug\AppManifest.xaml
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\Bin\Debug\precos_marcenaria.xap
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\obj\Debug\precos_marcenaria.csprojResolveAssemblyReference.cache
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\obj\Debug\App.g.cs
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\obj\Debug\MainPage.g.cs
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\obj\Debug\precos_marcenaria.g.resources
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\obj\Debug\precos_marcenaria.dll
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\obj\Debug\precos_marcenaria.pdb
+c:\users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\obj\Debug\XapCacheFile.xml
+C:\Users\'otavio\documents\visual studio 2012\Projects\precos_marcenaria\precos_marcenaria\obj\Debug\Products.g.cs
